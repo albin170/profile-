@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef1f5;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: #1a253f;
+  color: #fff;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+}
+nav ul li {
+  margin-left: 20px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: linear-gradient(#1a253f, #3e4a62);
+  color: white;
+}
+.hero span {
+  color: #00e0ff;
+  font-weight: bold;
+}
+.card {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 900px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+.list li {
+  background: #dfe6ed;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 6px;
+}

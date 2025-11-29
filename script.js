@@ -1,0 +1,1 @@
+console.log("Albin's Portfolio Loaded Successfully");
